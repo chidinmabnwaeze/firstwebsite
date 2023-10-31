@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  
+  }
+  .background-image{
+      position: relative;
+  }
+  .crew-info{
+    color: white;
+position: absolute;
+bottom: 70px;
+}
+.crew-heading{
+    color: white;
+    position: absolute;
+    top: 12rem;
+}
+.crew-role{
+    color: rgb(167, 165, 165)!important;  
+    margin: 10px !important; 
+    
+}
+span{
+    color: rgb(167, 165, 165)!important;   
+}
+.crew-image{
+    position: absolute;
+    top: 10rem;
+}
+.img-fluid{
+    width: 500px;
+}
+.nav-item-container{
+    display: flex;
+    flex-direction: row;
+    
+    align-items: end;
+}

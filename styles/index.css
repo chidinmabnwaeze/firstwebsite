@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.background-image{
+    position: relative;
+}
+.nav-items{
+   color: white;
+}
+.space-text{
+    font-size: 90px;
+   
+}
+.col-9{
+    color:white;
+position: absolute;
+bottom:80px;
+}
+.col-3{
+    width: 5rem;
+    height: 13rem;
+border-radius: 50%;
+background-color: white;
+position: absolute;
+right: 13rem;
+bottom: 80px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.explore-text{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}

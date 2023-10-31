@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    
+}
+.background-image{
+    position: relative;}
+    
+    .col{
+color: rgb(240, 240, 240);
+        position: absolute;
+        top: 10rem;
+        bottom: 50px;
+    }
+    .navPills{
+        position:absolute;
+        top: 10rem;
+        right: 10rem;
+    }
+    .tab-content{
+        position:absolute;
+        top: 20rem;
+        right: 15rem;
+        color: white;
+    }
+    .moon-img{
+        position:absolute;
+        top: 20rem;
+        left: 30rem; 
+    }
+     
+    
